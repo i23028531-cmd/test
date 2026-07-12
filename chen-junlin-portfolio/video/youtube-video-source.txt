@@ -1,0 +1,8 @@
+Embedded video source:
+https://www.youtube.com/watch?v=20HxMMSqRyg
+
+Embed URL used in index.html:
+https://www.youtube.com/embed/20HxMMSqRyg
+
+Reason for selection:
+This video matches the coffee shop theme because it introduces latte art and coffee preparation, which supports the cafe products and customer experience shown on the website.
